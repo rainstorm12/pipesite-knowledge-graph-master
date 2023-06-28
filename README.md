@@ -1,3 +1,24 @@
-# pipesite-knowledge-graph-master
-通过VUE+Django架构编写知识图谱运维平台，并配置了torch版本的GPLinker知识抽取算法
-目前只上传了前端代码，后端比较大还没上传。。。
+# pipe-graph
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
